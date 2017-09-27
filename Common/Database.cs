@@ -12,25 +12,25 @@ namespace Common
     public class Database
     {
 
-        string CreateEmployee = "spCreateEmployee";
-        string CreateProject = "spCreateProject";
-        string CreateSkill= "spCreateSkill";
-        string CreateSkillCategory= "spCreateSkillCategory";
+        public string createEmployee = "spCreateEmployee";
+        public string createProject = "spCreateProject";
+        public string createSkill = "spCreateSkill";
+        public string createSkillCategory = "spCreateSkillCategory";
 
-        string GetCategoryList= "spGetCategoryList";
-        string GetLevelList= "spGetLevelList";
-        string GetSpecialityList= "spGetSpecialityList";
-        string GetStatusList= "spGetStatusList";
+        public string getCategoryList = "spGetCategoryList";
+        public string getLevelList= "spGetLevelList";
+        public string getSpecialityList = "spGetSpecialityList";
+        public string getStatusList = "spGetStatusList";
 
-        string UpdateEmployee= "spUpdateEmployee";
-        string UpdateProject= "spUpdateProject";
-        string UpdateSkill= "spUpdateSkill";
-        string UpdateSkillCategory= "spUpdateSkillCategory";
+        public string updateEmployee = "spUpdateEmployee";
+        public string updateProject = "spUpdateProject";
+        public string updateSkill = "spUpdateSkill";
+        public string updateSkillCategory = "spUpdateSkillCategory";
 
-        string ViewEmployee= "spViewEmployee";
-        string ViewProject= "spViewProject";
-        string ViewSkill= "spViewSkill";
-        string ViewSkillCategory= "spViewSkillCategory";
+        public string viewEmployee = "spViewEmployee";
+        public string viewProject = "spViewProject";
+        public string viewSkill = "spViewSkill";
+        public string viewSkillCategory = "spViewSkillCategory";
         
         public string ConnectionString
         {
@@ -40,6 +40,17 @@ namespace Common
             }
         }
 
-        
+        public string CcreateEmployee
+        {
+            get
+            {
+                return ccreateEmployee;
+            }
+
+            set
+            {
+                ccreateEmployee = value;
+            }
+        }
     }
 }

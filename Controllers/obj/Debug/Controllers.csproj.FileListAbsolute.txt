@@ -20,3 +20,14 @@ H:\HRSManagement\Controllers\bin\Debug\Common.pdb
 H:\HRSManagement\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
 H:\HRSManagement\Controllers\obj\Debug\Controllers.dll
 H:\HRSManagement\Controllers\obj\Debug\Controllers.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\Controllers.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\Controllers.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\BusinessEntities.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\BusinessLayer.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\Common.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\BusinessEntities.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\BusinessLayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\bin\Debug\Common.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\obj\Debug\Controllers.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\Controllers\obj\Debug\Controllers.pdb

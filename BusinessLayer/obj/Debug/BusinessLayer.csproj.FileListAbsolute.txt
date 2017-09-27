@@ -20,3 +20,14 @@ H:\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
 H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
 H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\Common.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\DALayer.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\Common.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
