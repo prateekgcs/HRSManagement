@@ -36,7 +36,8 @@ namespace Common
         {
             get
             {
-                return (System.Configuration.ConfigurationManager.ConnectionStrings["HRSManagement"].ConnectionString);
+                return @"server=CG-DTE-STUDENT\SQLEXPRESS;database=HRSManagement; integrated security=true";
+                //return (System.Configuration.ConfigurationManager.ConnectionStrings["HRSManagement"].ConnectionString);
             }
         }
     }

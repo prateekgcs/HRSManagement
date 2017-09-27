@@ -40,10 +40,35 @@ namespace BusinessEntities
 
         public EmployeeInfo(string FirstName, string MiddleName,
             int Age, string Gender, string LastName, DateTime BirthDate,
-            int CivilStatus, string Religion, string Citizenship, string MobileNo, string HousePhoneNo, string Street1,
-            string Street2, string City, string State, string ZipCode, string Country, string ProjectProfile, string SkillProfile,
+            int CivilStatus, string Religion, string Citizenship, string MobileNo, string HousePhoneNo,
+            string Street1,
+            string Street2, string City, string State, string ZipCode, string Country,
+            string ProjectProfile, string SkillProfile,
             string EducBackGround, string Recognitions, int CreatedBy, int LastModifiedBy)
         {
+            this.FirstName = FirstName;
+            this.MiddleName = MiddleName;
+            this.Age = Age;
+            this.Gender = Gender;
+            this.LastName = LastName;
+            this.BirthDate = BirthDate;
+            this.CivilStatus = CivilStatus;
+            this.Religion = Religion;
+            this.Citizenship = Citizenship;
+            this.MobileNo = MobileNo;
+            this.HousePhoneNo = HousePhoneNo;
+            this.Street1 = Street1;
+            this.Street2 = Street2;
+            this.City = City;
+            this.State = State;
+            this.ZipCode = ZipCode;
+            this.Country = Country;
+            this.ProjectProfile = ProjectProfile;
+            this.SkillProfile = SkillProfile;
+            this.EducBackGround = EducBackGround;
+            this.Recognitions = Recognitions;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
 
         }
     }

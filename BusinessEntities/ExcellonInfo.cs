@@ -26,9 +26,20 @@ namespace BusinessEntities
         }
 
 
-        public ExcellonInfo(int EmployeeId, string Email, string EnterpriseId, int Level, DateTime DateHired, string WorkGroup, int Specaility, string Status, int CreatedBy, int LastModifiedBy)
+        public ExcellonInfo(int EmployeeId, string Email, string EnterpriseId,
+            int Level, DateTime DateHired, string WorkGroup, int Specaility, 
+            string Status, int CreatedBy, int LastModifiedBy)
         {
-
+            this.EmployeeId = EmployeeId;
+            this.Email = Email;
+            this.EnterpriseId = EnterpriseId;
+            this.Level = Level;
+            this.DateHired = DateHired;
+            this.WorkGroup = WorkGroup;
+            this.Speciality = Speciality;
+            this.Status = Status;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
         }
     }
 }

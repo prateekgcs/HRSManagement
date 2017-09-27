@@ -10,6 +10,6 @@ H:\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.dll
 H:\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.pdb
 C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\bin\Debug\BusinessEntities.dll
 C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\bin\Debug\BusinessEntities.pdb
-C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
 C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache

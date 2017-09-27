@@ -25,7 +25,12 @@ namespace BusinessEntities
 
                         int CategoryId, int CreatedBy, int LastModifiedBy)
         {
-
+            this.SkillId = SkillId;
+            this.SkillName = SkillName;
+            this.SkillDescription = SkillDescription;
+            this.CategoryId = CategoryId;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
         }
     }
 }

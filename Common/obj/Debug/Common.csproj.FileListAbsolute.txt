@@ -10,3 +10,9 @@ C:\Users\PRATEEK\Desktop\HRSManagement\Common\bin\Debug\Common.pdb
 C:\Users\PRATEEK\Desktop\HRSManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 C:\Users\PRATEEK\Desktop\HRSManagement\Common\obj\Debug\Common.dll
 C:\Users\PRATEEK\Desktop\HRSManagement\Common\obj\Debug\Common.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\bin\Debug\Common.dll.config
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\bin\Debug\Common.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\bin\Debug\Common.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\obj\Debug\Common.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\obj\Debug\Common.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

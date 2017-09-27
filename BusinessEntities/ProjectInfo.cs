@@ -13,21 +13,38 @@ namespace BusinessEntities
         public string ProjName { get; set; }
         public string Description { get; set; }
         public string Client { get; set; }
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
+        public string StartDate { get; set; }
+        public string EndDate { get; set; }
         public int CreatedBy { get; set; }
         public int LastModifiedBy { get; set; }
 
 
-        public ProjectInfo()
-        {
-
-        }
-        public ProjectInfo(int ProjId, string ProjName, string Description,
-                           string Client, DateTime StartDate, DateTime EndDate,
+        public ProjectInfo(string ProjName, string Description,
+                           string Client, string StartDate, string EndDate,
                            int CreatedBy, int LastModifiedBy)
         {
+            this.ProjId = ProjId;
+            this.ProjName = ProjName;
+            this.Description = Description;
+            this.Client = Client;
+            this.StartDate = StartDate;
+            this.EndDate = EndDate;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
+        }
 
+        public ProjectInfo(int ProjId, string ProjName, string Description,
+                           string Client, string StartDate, string EndDate,
+                           int CreatedBy, int LastModifiedBy)
+        {
+            this.ProjId = ProjId;
+            this.ProjName = ProjName;
+            this.Description = Description;
+            this.Client = Client;
+            this.StartDate = StartDate;
+            this.EndDate = EndDate;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
         }
 
 

@@ -40,11 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CategoryDAL.cs" />
+    <Compile Include="D:\HRSMgmt\CategoryDAL.cs">
+      <Link>CategoryDAL.cs</Link>
+    </Compile>
     <Compile Include="EmployeeDAL.cs" />
-    <Compile Include="ProjectDAL.cs" />
+    <Compile Include="D:\HRSMgmt\ProjectDAL.cs">
+      <Link>ProjectDAL.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SkillDAL.cs" />
+    <Compile Include="D:\HRSMgmt\SkillDAL.cs">
+      <Link>SkillDAL.cs</Link>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessEntities\BusinessEntities.csproj">

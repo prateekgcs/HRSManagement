@@ -1,0 +1,11 @@
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\obj\Debug\ProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\ProjectTest.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\ProjectTest.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\BusinessEntities.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\DALayer.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\Common.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\BusinessEntities.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\DALayer.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\bin\Debug\Common.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\ProjectTest\obj\Debug\ProjectTest.pdb

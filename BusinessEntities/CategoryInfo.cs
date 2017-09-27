@@ -20,9 +20,14 @@ namespace BusinessEntities
         }
 
 
-        public CategoryInfo(int CategoryId, string CategoryName, string CategoryDescription, int CreatedBy, int LastModifiedBy)
+        public CategoryInfo(int CategoryId, string CategoryName, string CategoryDescription,
+            int CreatedBy, int LastModifiedBy)
         {
-
+            this.CategoryId = CategoryId;
+            this.CategoryName = CategoryName;
+            this.CategoryDescription = CategoryDescription;
+            this.CreatedBy = CreatedBy;
+            this.LastModifiedBy = LastModifiedBy;
         }
     }
 }
