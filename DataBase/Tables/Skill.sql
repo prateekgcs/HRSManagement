@@ -1,0 +1,60 @@
+USE [HRSManagement]
+GO
+
+/****** Object:  Table [dbo].[Skill]    Script Date: 26-09-2017 04:22:13 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Skill](
+	[SkillId] [int] IDENTITY(1,1) NOT NULL,
+	[SkillName] [varchar](50) NOT NULL,
+	[SkillDescription] [varchar](100) NOT NULL,
+	[CategoryId] [int] NOT NULL,
+	[CreatedBy] [int] NOT NULL,
+	[CreatedDate] [datetime] NOT NULL,
+	[LastModifiedBy] [int] NULL,
+	[LastModifiedDate] [datetime] NULL,
+ CONSTRAINT [PK_Skill] PRIMARY KEY CLUSTERED 
+(
+	[SkillId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY],
+UNIQUE NONCLUSTERED 
+(
+	[CategoryId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY],
+UNIQUE NONCLUSTERED 
+(
+	[SkillName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY],
+UNIQUE NONCLUSTERED 
+(
+	[SkillName] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[Skill]  WITH CHECK ADD  CONSTRAINT [FK_Skill_Category] FOREIGN KEY([CategoryId])
+REFERENCES [dbo].[Category] ([CategoryId])
+GO
+
+ALTER TABLE [dbo].[Skill] CHECK CONSTRAINT [FK_Skill_Category]
+GO
+
+ALTER TABLE [dbo].[Skill]  WITH CHECK ADD  CONSTRAINT [FK_Skill_User] FOREIGN KEY([CreatedBy])
+REFERENCES [dbo].[User] ([UserId])
+GO
+
+ALTER TABLE [dbo].[Skill] CHECK CONSTRAINT [FK_Skill_User]
+GO
+
+ALTER TABLE [dbo].[Skill]  WITH CHECK ADD  CONSTRAINT [FK_Skill_User1] FOREIGN KEY([LastModifiedBy])
+REFERENCES [dbo].[User] ([UserId])
+GO
+
+ALTER TABLE [dbo].[Skill] CHECK CONSTRAINT [FK_Skill_User1]
+GO
+

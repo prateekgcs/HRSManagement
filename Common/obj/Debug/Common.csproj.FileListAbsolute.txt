@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\Common\obj\Debug\Common.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\HRSManagement\Common\bin\Debug\Common.dll.config

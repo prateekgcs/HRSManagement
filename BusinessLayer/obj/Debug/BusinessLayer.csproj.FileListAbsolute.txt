@@ -1,0 +1,22 @@
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\Common.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\DALayer.dll
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\Common.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
+H:\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+H:\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+H:\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.dll
+H:\HRSManagement\BusinessLayer\bin\Debug\Common.dll
+H:\HRSManagement\BusinessLayer\bin\Debug\DALayer.dll
+H:\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.pdb
+H:\HRSManagement\BusinessLayer\bin\Debug\Common.pdb
+H:\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
+H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+H:\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
