@@ -16,3 +16,12 @@ H:\HRSManagement\Presentation\obj\Debug\Presentation.Properties.Resources.resour
 H:\HRSManagement\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
 H:\HRSManagement\Presentation\obj\Debug\Presentation.exe
 H:\HRSManagement\Presentation\obj\Debug\Presentation.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\bin\Debug\Presentation.exe
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\bin\Debug\Presentation.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.exe
+C:\Users\CG-DTE\Desktop\HRSManagement\Presentation\obj\Debug\Presentation.pdb

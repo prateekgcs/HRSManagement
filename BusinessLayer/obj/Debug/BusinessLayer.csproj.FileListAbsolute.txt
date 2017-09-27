@@ -31,3 +31,14 @@ C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
 C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\PRATEEK\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\Common.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\DALayer.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\Common.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\bin\Debug\DALayer.pdb
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\CG-DTE\Desktop\HRSManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
