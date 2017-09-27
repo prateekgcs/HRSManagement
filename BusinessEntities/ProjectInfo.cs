@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessEntities
 {
-    class ProjectInfo
+    public class ProjectInfo
     {
 
         public int ProjId { get; set; }
