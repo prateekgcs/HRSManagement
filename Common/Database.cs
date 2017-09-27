@@ -39,18 +39,5 @@ namespace Common
                 return (System.Configuration.ConfigurationManager.ConnectionStrings["HRSManagement"].ConnectionString);
             }
         }
-
-        public string CcreateEmployee
-        {
-            get
-            {
-                return ccreateEmployee;
-            }
-
-            set
-            {
-                ccreateEmployee = value;
-            }
-        }
     }
 }

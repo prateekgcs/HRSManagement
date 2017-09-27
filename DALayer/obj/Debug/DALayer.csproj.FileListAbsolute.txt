@@ -19,3 +19,9 @@ H:\HRSManagement\DALayer\obj\Debug\DALayer.pdb
 C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\obj\Debug\DALayer.csprojResolveAssemblyReference.cache
 C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\obj\Debug\DALayer.dll
 C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\obj\Debug\DALayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\DALayer.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\DALayer.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\BusinessEntities.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\Common.dll
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\BusinessEntities.pdb
+C:\Users\PRATEEK\Desktop\HRSManagement\DALayer\bin\Debug\Common.pdb
